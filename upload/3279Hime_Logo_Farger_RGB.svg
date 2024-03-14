@@ -1,0 +1,21 @@
+<svg id="Hime_Logo_Farger_RGB" xmlns="http://www.w3.org/2000/svg" width="94.725" height="25.007" viewBox="0 0 94.725 25.007">
+  <g id="Group_1" data-name="Group 1" transform="translate(30.35 8.431)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="4.623" height="16.387" fill="#fff"/>
+  </g>
+  <g id="Group_2" data-name="Group 2" transform="translate(41.698 4.092)">
+    <path id="Path_1" data-name="Path 1" d="M241.356,25.787c3.334,0,3.96,2.823,3.96,5.342v11.2H250v-13.3a7.467,7.467,0,0,0-2.273-5.494,7.609,7.609,0,0,0-5.513-1.932,7.331,7.331,0,0,0-4.376,1.25,7.075,7.075,0,0,0-1.913,1.989l-.038.057-.038-.057c-.095-.171-.208-.341-.322-.512a6.466,6.466,0,0,0-1.364-1.421,5.958,5.958,0,0,0-1.895-.966,7.611,7.611,0,0,0-2.33-.341,5.342,5.342,0,0,0-5.077,2.69l-.076.152V22.036H220.1v20.29h4.679v-11.2c0-2.52.644-5.342,4-5.342,3.315,0,3.96,2.823,3.96,5.342v11.2h4.679v-11.2C237.4,28.61,238,25.787,241.356,25.787Z" transform="translate(-220.1 -21.6)" fill="#fff"/>
+  </g>
+  <g id="Group_3" data-name="Group 3" transform="translate(0 0.417)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="4.679" height="24.401" fill="#fff"/>
+  </g>
+  <g id="Group_4" data-name="Group 4" transform="translate(19.381 0.417)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="4.623" height="24.401" fill="#fff"/>
+  </g>
+  <g id="Group_5" data-name="Group 5" transform="translate(5.835 11.443)">
+    <path id="Path_2" data-name="Path 2" d="M37,66.614a6.2,6.2,0,0,0,6.176-6.081V60.4H30.8v.133A6.224,6.224,0,0,0,37,66.614Z" transform="translate(-30.8 -60.4)" fill="#fff"/>
+  </g>
+  <g id="Group_6" data-name="Group 6" transform="translate(29.914)">
+    <path id="Path_3" data-name="Path 3" d="M160.647,0a2.747,2.747,0,1,0,2.747,2.747A2.749,2.749,0,0,0,160.647,0Z" transform="translate(-157.9)" fill="#fff"/>
+  </g>
+  <path id="Path_4" data-name="Path 4" d="M417.431,28.761a9.082,9.082,0,0,0-9.15-7.161c-5.8,0-9.681,4.092-9.681,10.192a11.431,11.431,0,0,0,2.558,7.749,9.364,9.364,0,0,0,7.237,2.974c8.2,0,9.359-6.214,9.359-6.214h-4.225c-.7,1.553-2.425,2.558-5.134,2.558a5.476,5.476,0,0,1-5.532-5.248h14.891A16.045,16.045,0,0,0,417.431,28.761Zm-14.55,1.212c0-2.273,2.292-4.736,5.38-4.736,2.993,0,5.342,2.463,5.342,4.736Z" transform="translate(-323.085 -17.508)" fill="#fff"/>
+</svg>
